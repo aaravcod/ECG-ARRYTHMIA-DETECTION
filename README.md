@@ -23,7 +23,6 @@ cd arrhythmia-detection
 ```bash
 pip install -r requirements.txt
 ```
-The model is already created.
 3️⃣ Run the prediction script:  
 ```bash
 python prediction.py
