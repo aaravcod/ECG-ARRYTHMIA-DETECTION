@@ -12,7 +12,7 @@ This project aims to address these challenges by developing a machine learning-b
 5. scikit-learn
 6. matplotlib
 
-The dataset is a verified dataset availble on https://physionet.org
+The dataset is a verified and availble on https://physionet.org
 ![Figure_1](https://github.com/user-attachments/assets/8a69fefa-c1e0-418c-925b-9312f718efdc)
 ![Figure_2](https://github.com/user-attachments/assets/5d6f07a8-d571-4402-8acc-19df19953e02)
 
