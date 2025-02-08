@@ -29,11 +29,11 @@ The model is already created.
 python prediction.py
 ```
 
-#Model Training & Evaluation
+# Model Training & Evaluation
 - The model is trained on ECG data with **categorical cross-entropy loss** and **Adam optimizer**.  
 - Evaluation includes accuracy, confusion matrix, and classification report.  
 
-#📊 Results & Visualization
+# Results & Visualization
 The project includes visualization of:  
 - **Training history** (accuracy/loss over epochs)  
 - **Confusion matrix**  
